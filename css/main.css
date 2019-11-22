@@ -50,7 +50,7 @@ input:focus, input:active {
 /* Шапка */
 header{
     height: 100vh;
-    background: url(/images/mlntours..png) no-repeat center center / cover;
+    background: url(..//images/mlntours..png) no-repeat center center / cover;
     z-index: 14;
     position: relative;
 } 
@@ -219,7 +219,7 @@ h1 p{
     margin-top: 19px;
  }
  #travel{
-     background: url(/images/фон\ к\ переезду\ .png) no-repeat center center / cover;
+     background: url(../images/фон\ к\ переезду\ .png) no-repeat center center / cover;
      padding: 96px 0;
  }
  .travel_hed{
@@ -268,7 +268,7 @@ h1 p{
     letter-spacing: 2.3px;
 }
 .ask__arrow{
-    background: url(/images/фон\ к\ переезду\ .png);
+    background: url(../images/фон\ к\ переезду\ .png);
     height: 33px;
     width: 33px;
     border: 1px dashed #fff;
@@ -336,7 +336,7 @@ h1 p{
 /*  */
 #services{
     padding: 100px 0;
-    background: url(/images/city.png) no-repeat bottom center / cover;
+    background: url(../images/city.png) no-repeat bottom center / cover;
     position: relative;
     z-index: 100;}
 .services__hed{
@@ -435,19 +435,19 @@ h1 p{
     margin-bottom: -90px;
 }
 .ir-1{
-    background: url(/images/круг-картинка1.png) no-repeat center center / cover;
+    background: url(../images/круг-картинка1.png) no-repeat center center / cover;
     z-index: -100;
     margin-left: -195px;
     margin-bottom: -120px;
 }
 .ir-2{
-    background: url(/images/круг-картинка2.png) no-repeat center center / cover;
+    background: url(..//images/круг-картинка2.png) no-repeat center center / cover;
     z-index: 600;
     margin-left: -85px;
     margin-bottom: -70px;
 }
 .ir-3{
-    background: url(/images/круг-картинка3.png)no-repeat center center / cover;
+    background: url(../images/круг-картинка3.png)no-repeat center center / cover;
     z-index: -99;
     margin-left: -20px;
     margin-bottom: -100px;
@@ -510,7 +510,7 @@ h1 p{
     letter-spacing: 1.4px;
 }
 .rewieews__img_round{
-    background: url(/images/аватарка.png)no-repeat center top / cover ;
+    background: url(../images/аватарка.png)no-repeat center top / cover ;
     width: 138px;
     height: 138px;
     border-radius: 50%;
@@ -558,7 +558,7 @@ h1 p{
 }
 #form-table{
     padding: 103px 0 73px 0;
-    background: url(/images/фон\ форм.png) no-repeat center center / cover
+    background: url(../images/фон\ форм.png) no-repeat center center / cover
 }
 .form-table_hed{
     color: #ffffff;
