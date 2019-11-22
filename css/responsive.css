@@ -1,0 +1,301 @@
+@media screen and (max-width:1200px){
+    .contacts i{
+        margin-left: 110px;
+    }
+    .menu {
+        padding: 25px 0 10px 130px;
+    }
+}
+
+@media screen and (max-width:991px){
+    .menu-navigation{
+        margin-left: 30%;
+    }
+    .contacts i{
+        margin-left: 30px;
+       
+    }
+    .info p {
+        font-size: 17px;
+        line-height: 19px;
+        margin-top: 11px;
+        line-height: 19px;
+    }
+    .travel_hed {
+        font-size: 35px;
+        font-weight: 400;
+        line-height: 34px;
+        margin-bottom: 29px;
+    }
+    h1{
+        font-size: 45px ;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 31.4px;
+        margin-left: -368px;
+        }
+    h1 p{
+        font-size: 51px;
+        letter-spacing: 10.2px;
+        text-align: center;
+        /* margin-left: -20px; */
+    }
+        .travel_text {
+        line-height: px;
+        opacity: 0.6;
+        font-size: 14px;
+        }
+    .ask_text1 {
+        color: 
+        #ffffff;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+        text-transform: uppercase;
+        opacity: 0.6;
+        letter-spacing: 1.9px;
+    }
+    .ask_text2 {
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 2.3px;
+    }
+    .left-arw {
+        bottom: 50%;
+        margin-bottom: -22.4px;
+        right: 100%;
+        margin-right: 115px;
+    }
+    .right-arw {
+        bottom: 50%;
+        margin-bottom: -22.4px;
+        left: 100%;
+        margin-left: 110px;
+    }
+}
+@media screen and (max-width:768px){
+    .contacts i{
+        margin-left: 20px;
+    }
+    /* .logo{
+        width: 100%;
+        height: 100%;
+    } */
+    /* .logo{
+        height: 100%;
+        width: auto;
+    } */
+    .menu-navigation{
+        margin-left: 0;
+    }
+    .f90{
+        font-size: 78px 
+    }
+    h1{
+        font-size: 31px ;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 16.4px;
+        margin-left: -280px;
+        }
+    h1 p{
+        font-size: 40px;
+        letter-spacing: 10.2px;
+        text-align: center;
+        margin-left: -10px;
+        /* margin-left: -20px; */
+    }
+    .hed2{
+        margin-top: 79px;
+        margin-bottom: 62px;
+        font-size:31px;
+    }
+    .r11{
+        margin-top: -85px;
+    }
+    .lr{
+        margin-right: -8px;
+    }
+    .rl{
+        margin-left: -8px;
+    }
+    .left-arw {
+        bottom: 50%;
+        margin-bottom: -22.4px;
+        right: 100%;
+        margin-right: 60px;
+    }
+    .right-arw {
+        bottom: 50%;
+        margin-bottom: -22.4px;
+        left: 100%;
+        margin-left: 60px;
+    }
+    .rewieews__img_round{
+        margin-right: -90px;
+    }
+    .order__btn{
+        font-size: 13px;
+        
+    }
+    .table_info_word {
+        margin-right: 12px;
+    }
+}
+@media screen and (max-width:576px){
+    .menu-navigation{
+       left: 100%;
+    }
+    .logo{
+        width: 190px;
+    }
+    .f90{
+        font-size: 47px 
+    }
+    h1{
+        font-size: 31px ;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 4.4px;
+        margin-left: -149px;
+        }
+    h1 p{
+        font-size: 25px;
+        letter-spacing: 10.2px;
+        text-align: center;
+        margin-left: -10px;
+        /* margin-left: -20px; */
+    }
+    .info {
+        margin-bottom: 70px;
+    }
+    .r12{
+        margin-top: -146px;
+    }
+    .r11{
+        margin-top: -59px;
+    }
+    .lr{
+        margin-right: 0px;
+    }
+    .rl{
+        margin-left: 0px;
+    }
+    #travel {
+        padding: 70px 0;
+    }
+    .travel__answer{
+        line-height: 33px;
+        font-size: 29px;
+        letter-spacing: 1.7px;
+        margin-bottom: 26px;
+    }
+    .hed2 {
+        margin-top: 59px;
+        margin-bottom: 12px;
+        font-size: 31px;
+    }
+    .travel__info {
+        margin-top: 31px;
+    }
+    .button{
+        margin: 30px auto;;
+    }
+    #services {
+        padding: 70px 0;
+    }
+    .services__hed{
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: 0.2px;
+        margin-bottom: 150px;
+    }
+    .round-images {
+        border-radius: 50%;
+        height: 130px;
+        width: 130px;
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: 100%;
+        margin-bottom: -60px;
+    }
+    .ir-1 {
+        background: url(/images/круг-картинка1.png) no-repeat center center / cover;
+        z-index: -100;
+        margin-left: -135px;
+        margin-bottom: -70px;
+    }
+    .services__text {
+        margin-bottom: 30px;
+    }
+    .rewieews__info {
+        padding: 89px 35px 44px 35px;
+    }
+    .rewieews__hed {
+        font-size: 42px;
+        font-weight: 700;
+        letter-spacing: 4.2px;
+        margin-top: 89px;
+        margin-bottom: 116px;
+    }
+    .table_info_word{
+        text-align: center;
+        margin-right: 0;
+        float: none; 
+        list-style-type: none;
+        line-height: 17px;
+        margin-right: 0px;
+    }
+    .rewieews__info{
+        position: relative;
+    }
+    .rewieews__img_round {
+        width: 130px;
+        height: 130px;
+        border-radius: 50%;
+        position: absolute;
+        left: 50%;
+        bottom: 100%;
+        margin-bottom: -65px;
+        margin-left: -65px;
+        margin-right: 0;
+        right: 0;
+    }
+    .nd{
+        margin-right: -0px;
+    }
+    .text-left {
+        text-align: center!important;
+    }
+    .rewieews__info p{
+        text-align: center!important;
+    }
+    .table_round {
+        width: 79px;
+        margin: 0 auto;
+        margin: 36px auto 50px auto;
+        margin-bottom: 50px;
+    }
+    #form-table {
+        padding: 80px 0 56px 0;
+    }
+    .form_arrow {
+        display: block;
+        margin: 30px auto;
+        margin-bottom: 14px;
+    }
+    .form-table_hed {
+        font-size: 33px;
+        line-height: 42px;
+        font-weight: 600;
+        letter-spacing: 3.2px;
+        margin-bottom: 15px;
+    }
+    #titlel {
+        background: #23aae2;
+        box-shadow: 3px -13px 131px rgba(0, 0, 0, 0.26);
+        padding: 5px 0 0 0;
+    }
+}
