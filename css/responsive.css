@@ -174,10 +174,10 @@
         margin-bottom: 70px;
     }
     .r12{
-        margin-top: -146px;
+        margin-top: -146px!important;
     }
     .r11{
-        margin-top: -59px;
+        margin-top: -59px!important;
     }
     .lr{
         margin-right: 0px;
@@ -309,7 +309,7 @@
         padding-top: 24px;
     }
     .left-arw {
-     display: none;
+     display: none ;
     }
     .right-arw {
        display: none;
