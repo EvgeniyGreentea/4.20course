@@ -161,12 +161,12 @@
         font-size: 47px 
     }
     h1{
-        left: 0;
-        margin: 0 auto;
         font-size: 31px ;
         font-weight: 800;
         text-transform: uppercase;
         letter-spacing: 4.4px;
+        margin-left: -149px;
+
         }
     h1 p{
         font-size: 25px;
@@ -328,5 +328,10 @@
     }
     .logo1{
         width: 130px;
+    }
+}
+@media screen and (max-width:330px){
+    h1{
+        margin-left: -129px;
     }
 }
