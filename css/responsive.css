@@ -154,6 +154,7 @@
        left: 100%;
     }
     .logo{
+        height: 100%!important;
         width: 190px;
     }
     .f90{
@@ -164,7 +165,7 @@
         font-weight: 800;
         text-transform: uppercase;
         letter-spacing: 4.4px;
-        margin-left: -149px;
+        margin-left: -125px;
         }
     h1 p{
         font-size: 25px;
