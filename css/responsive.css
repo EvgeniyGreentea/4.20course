@@ -8,6 +8,9 @@
 }
 
 @media screen and (max-width:991px){
+    .contacts{
+        display: none;
+    }
     .menu-navigation{
         margin-left: 30%;
     }
@@ -313,5 +316,15 @@
     }
     .right-arw {
        display: none;
+    }
+    .contacts{
+        display: none;
+    }
+    .title_text{
+        padding-top: 15px;
+        margin-left: 15px;
+    }
+    .logo1{
+        width: 130px;
     }
 }
