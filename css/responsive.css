@@ -35,7 +35,7 @@
         font-weight: 800;
         text-transform: uppercase;
         letter-spacing: 31.4px;
-        margin-left: -368px;
+        /* margin-left: -368px; */
         }
     h1 p{
         font-size: 51px;
@@ -100,7 +100,7 @@
         font-weight: 800;
         text-transform: uppercase;
         letter-spacing: 16.4px;
-        margin-left: -280px;
+        /* margin-left: -280px; */
         }
     h1 p{
         font-size: 40px;
@@ -165,7 +165,7 @@
         font-weight: 800;
         text-transform: uppercase;
         letter-spacing: 4.4px;
-        margin-left: -149px;
+        /* margin-left: -149px; */
         } 
     h1 p{
         font-size: 25px;

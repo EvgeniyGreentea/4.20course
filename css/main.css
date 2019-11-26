@@ -145,11 +145,11 @@ h1{
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 51.4px;
-    position: absolute;
-    top: 38%;
-    left: 50%;
-    margin-left: -450px;
-    margin-top: -90px;
+    /* position: absolute; */
+   margin-top: 25vh!important;
+    /* left: 50%; */
+    /* margin-left: -450px;
+    margin-top: -90px; */
 }
 h1 p{
     font-size: 51px;
