@@ -511,20 +511,21 @@ h1 p{
 }
 .rewieews__img_round{
     background: url(../images/аватарка.png)no-repeat center top / cover ;
-    width: 138px;
-    height: 138px;
+    width: 108px;
+    height: 108px;
     border-radius: 50%;
     position: absolute;
     bottom: 50%;
-    margin-bottom: -69px;
+    margin-bottom: -54px;
     right: 100%;
-    margin-right: -69px;
+    margin-right: -112px;
 }
 .table_info_arw{
     position: absolute;
     font-size: 45px;
     color: #23aae2;
     background: #fff;
+    display: none;
 }
 .left-arw{
     bottom: 50%;
@@ -544,6 +545,7 @@ h1 p{
     border: 1px dashed #23aae2;
     border-radius: 50%;
     margin-right: 11px;
+    display: none;
 }
 .table_round li:last-child{
     margin-right: 0;
